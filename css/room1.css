@@ -48,3 +48,6 @@ h3{ color: #A27A51; font-size: 1.5em; margin-top: -50px; width: 150px; height: 8
 .eq_notice p{display: flex; margin-bottom: 70px;}
 .eq_notice strong{width: 200px; height: 30px;}
 .eq_notice span{width:1200px; height: 150px;}
+/*footer*/
+#footer{width: 100%; height: 200px; background: #b1997898;}
+.flogo{width: 100%; height: 200px; display: flex; justify-content: center; align-items: center;}

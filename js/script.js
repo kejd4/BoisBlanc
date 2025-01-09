@@ -34,3 +34,6 @@ $(".close").click(function(){
  $(".message_wrap").hide()
  $(".side_btn").show()
 })
+$(".side_btn").click(function(){
+ $(".message_wrap").show()
+})

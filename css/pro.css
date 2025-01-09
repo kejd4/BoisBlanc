@@ -39,10 +39,13 @@ body,html{background: #F8FAFB; color: #333333;}
 .but{width: 100%; height: 200px; font-family: 'InkLipquid'; display: flex;  align-items: center;}
 .but p{border: 2px solid #A27A51; width: 150px; height: 40px; font-size: 1.4em; border-radius: 100%; text-align: center; line-height: 40px; color: #A27A51; margin-left: 150px;}
 .but p:hover{background: #A27A51; color: #F8FAFB;}
-/*footer*/
-#footer{width: 100%; height: 400px;  display: flex; border-top: 1px solid #A27A51;}
+/*main*/
+#main{width: 100%; height: 400px;  display: flex; border-top: 1px solid #A27A51;}
 .space{width: 50%; height: 100%; padding-left: 450px; padding-top: 50px;}
 .space p{font-family: 'InkLipquid'; color: #A27A51; font-size: 3em; line-height: 2;}
 .space span{ font-family: 'GowunDodum-Regular'; line-height: 2;}
 .map{width: 50%; height: 100%; display: flex; justify-content: center; align-items: center;}
 .map iframe{width: 80%; height: 80%;}
+/*footer*/
+#footer{width: 100%; height: 200px; background: #b1997898;}
+.flogo{width: 100%; height: 200px; display: flex; justify-content: center; align-items: center;}

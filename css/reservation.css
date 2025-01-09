@@ -32,11 +32,14 @@ body,html{background: #F8FAFB; color: #333333; }
 .ctit{font-size: 2.5em; font-weight: bold; line-height: 1.5; padding-top: 35px;}
 .ctxt{font-size: 0.9em; line-height: 2; padding-top: 20px;}
 /*reser*/
-.reser{width: 100%; height: 600px; background: #ddd;}
+.reser{width: 100%; height: 800px; display: flex; justify-content: center; align-items: center;cursor: pointer;}
 /*refund*/
-.refund{width: 100%; height: 600px; font-family: 'GowunDodum-Regular'; padding-top: 150px; margin-bottom: 50px; padding-left: 200px;}
+.refund{width: 100%; height: 800px; font-family: 'GowunDodum-Regular'; padding-top: 150px;  padding-left: 200px; box-sizing: border-box;}
 h3{ color: #A27A51; font-size: 1.5em; margin-top: -50px; width: 150px; height: 80px;  }
-.refund p{display: flex; margin-bottom: 70px;}
+.refund p{display: flex; margin-bottom: 70px; }
 .refund strong{width: 200px; height: 30px;}
 .refund span{width:1200px; height: 150px;}
 
+/*footer*/
+#footer{width: 100%; height: 200px; background: #b1997898;}
+.flogo{width: 100%; height: 200px; display: flex; justify-content: center; align-items: center;}
